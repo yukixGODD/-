@@ -1,4 +1,4 @@
-/* Основные стили */
+/* ГЋГ±Г­Г®ГўГ­Г»ГҐ Г±ГІГЁГ«ГЁ */
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -61,7 +61,7 @@ header a:hover {
     overflow: hidden;
 }
 
-/* О компании */
+/* ГЋ ГЄГ®Г¬ГЇГ Г­ГЁГЁ */
 #about h2, #services h2, #projects h2, #testimonials h2, #contact h2 {
     text-align: center;
     color: #35424a;
@@ -72,7 +72,7 @@ header a:hover {
     padding-bottom: 10px;
 }
 
-/* Услуги */
+/* Г“Г±Г«ГіГЈГЁ */
 #services ul {
     padding: 0;
     list-style: none;
@@ -92,7 +92,7 @@ header a:hover {
     cursor: pointer;
 }
 
-/* Проекты */
+/* ГЏГ°Г®ГҐГЄГІГ» */
 .project {
     background: #ffffff;
     margin-bottom: 20px;
@@ -106,7 +106,7 @@ header a:hover {
     color: #35424a;
 }
 
-/* Отзывы */
+/* ГЋГІГ§Г»ГўГ» */
 .testimonial {
     background: #eaeaea;
     margin-bottom: 20px;
@@ -115,7 +115,7 @@ header a:hover {
     font-style: italic;
 }
 
-/* Контакты */
+/* ГЉГ®Г­ГІГ ГЄГІГ» */
 .contact p {
     background: #ffffff;
     padding: 20px;
@@ -127,7 +127,7 @@ header a:hover {
     margin-bottom: 10px;
 }
 
-/* Подвал */
+/* ГЏГ®Г¤ГўГ Г« */
 footer {
     background: #35424a;
     color: #ffffff;
